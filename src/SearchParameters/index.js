@@ -495,6 +495,7 @@ SearchParameters._parseNumbers = function(partialState) {
     'aroundPrecision',
     'aroundRadius',
     'getRankingInfo',
+    'insideBoundingBox',
     'minWordSizefor2Typos',
     'minWordSizefor1Typo',
     'page',
